@@ -15,3 +15,13 @@ Q
 !app/Orchid/Filters/RoleFilter.php,1\1\110e4cf9f1f91a22e6ca690018874ed6c0568b10
 U
 %app/Orchid/Screens/PlatformScreen.php,3\e\3e22d7b2933cf9e3f7dd463c289ad38e80cf962f
+T
+$app/Providers/AppServiceProvider.php,4\8\48b8d8112e9bdd32ee7e25b1224d6739eece1e72
+U
+%app/Providers/AuthServiceProvider.php,a\5\a526ceaeed37cec3622903d924e7bbaf01d42971
+Z
+*app/Orchid/Layouts/Role/RoleEditLayout.php,f\4\f4ec12db357f4cdb4b48f75afcf699c14f5f5421
+Z
+*app/Orchid/Layouts/Role/RoleListLayout.php,4\b\4b76850bcb5f57c2588f9dd43e3c2b98f360b1e3
+Y
+)app/Orchid/Composers/MainMenuComposer.php,d\9\d998baf23690314472bfa2bfd0523d5a9c473f8b
